@@ -33,7 +33,7 @@ The model that we used are 3 different kind of model architectures with differen
 | --|-------------|----------|----------|
 | 1 | Sequential  |   96     | 71%      |
 | 2 | MobileNetV2 |   126    |  76%     |
-| 3 | InceptionV3 |   108    | 87.17%   |
+| 3 | InceptionV3 |   92     | 87.17%   |
 
 We used InceptionV3 model because It has highest accuracy model.
 ### References
