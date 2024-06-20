@@ -31,9 +31,10 @@ The data we used consists of image datasets with 10 different objects [1]. We gr
 The model that we used are 3 different kind of model architectures with different accuracy. We used sequential, InceptionV3, and MobileNetV2. So here the comparisons:
 |No |Model Name   | Size (MB)| Accuracy |
 | --|-------------|----------|----------|
-| 1 | Sequential  |    96    | 71%      |
-| 2 | MobileNetV2 |    126   |  76%     |
+| 1 | Sequential  |   96     | 71%      |
+| 2 | MobileNetV2 |   126    |  76%     |
 | 3 | InceptionV3 |   108    | 87.17%   |
 
+We used InceptionV3 model because It has highest accuracy model.
 ### References
 [1] https://www.kaggle.com/datasets/utkarshsaxenadn/fast-food-classification-dataset/discussion?sort=hotness
